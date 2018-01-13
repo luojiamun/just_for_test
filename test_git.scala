@@ -14,6 +14,7 @@
 // Create b4, push local change to remote;
 // change b4
 // change ms
+// change ms again after changing b4
 object test extends App{
 
     println("Hello")
