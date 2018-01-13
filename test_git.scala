@@ -13,8 +13,13 @@
 // change b3
 // Create b4, push local change to remote;
 // change b4
+<<<<<<< HEAD
 // change b4 again
 // change b4 after changing ms
+=======
+// change ms
+// change ms again after changing b4
+>>>>>>> master
 object test extends App{
 
     println("Hello")
