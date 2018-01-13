@@ -25,6 +25,8 @@
 // delete test change
 
 // after pull request to master
+
+// prepare b for merge
 object test extends App{
 
     println("Hello")
