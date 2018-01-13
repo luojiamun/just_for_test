@@ -24,7 +24,15 @@
 
 // delete test change
 
+// after pull request to master
+
+// prepare b for merge
+=======
 // prepare m for merge
+
+// merged
+// change again
+
 
 // change again
 object test extends App{
