@@ -23,8 +23,12 @@
 >>>>>>> master
 =======
 // change ms after merge
+<<<<<<< HEAD
 >>>>>>> master
 // change b4 again
+=======
+// change ms after merge2
+>>>>>>> 3c2bc8b6fc65d3172b7830f2c207b161f64f2c38
 object test extends App{
 
     println("Hello")
