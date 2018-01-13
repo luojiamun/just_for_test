@@ -16,6 +16,7 @@
 // change ms
 // change ms again after changing b4
 // change ms after merge
+// change ms after merge2
 object test extends App{
 
     println("Hello")
