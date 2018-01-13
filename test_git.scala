@@ -24,18 +24,17 @@
 
 // delete test change
 
-<<<<<<< HEAD
 // after pull request to master
 
 // prepare b for merge
 =======
 // prepare m for merge
->>>>>>> master
 
 // merged
 // change again
 
-// this line is unique to branch1, will be deleted by master after pull request. 
+
+// change again
 object test extends App{
 
     println("Hello")
