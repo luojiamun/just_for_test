@@ -11,6 +11,8 @@
 // Change branch2 after branch1 merge.
 // Create b3
 // change b3
+// Create b4, push local change to remote;
+// change b4
 object test extends App{
 
     println("Hello")
