@@ -9,6 +9,7 @@
 // This is the 4th commit; Change master branch;
 
 // Change branch2 after branch1 merge.
+// Create b3
 object test extends App{
 
     println("Hello")
