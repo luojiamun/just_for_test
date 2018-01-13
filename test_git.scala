@@ -34,6 +34,8 @@
 
 // merged
 // change again
+
+// this line is unique to branch1, will be deleted by master after pull request. 
 object test extends App{
 
     println("Hello")
