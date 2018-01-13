@@ -19,6 +19,10 @@
 =======
 // change ms
 // change ms again after changing b4
+<<<<<<< HEAD
+>>>>>>> master
+=======
+// change ms after merge
 >>>>>>> master
 object test extends App{
 
